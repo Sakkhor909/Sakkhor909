@@ -15,6 +15,7 @@
 <img align="left"  title="Sass" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img align="left" title="JavaScript"  alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" title="React"  alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" title="Next js" alt="Next js" width="26px" src="./img/nextjs.svg" style="padding-right:10px;" />
 <img align="left" title="Node.js" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" title="MySQL" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" title="Git" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
@@ -25,4 +26,6 @@
 
 ### Connect with me:
 
-[<img align="left" title="Terminal" alt="Terminal" width="26px" src="./img/linkedin-dark.svg" />](https://www.linkedin.com/in/minhajur-rahman)
+[<img align="left" title="Terminal" alt="Terminal" width="26px" src="./img/linkedin-brands.svg" />](https://www.linkedin.com/in/minhajur-rahman)
+
+[<img align="left" title="Terminal" alt="Terminal" width="26px" src="./img/upwork.png" />](https://www.upwork.com/freelancers/~01c9dc588b478ed0c3)
