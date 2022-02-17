@@ -26,6 +26,6 @@
 
 ### Connect with me:
 
-[<img align="left" title="Linkedin Profile"" alt="Linkedin Profile" width="26px" src="./img/linkedin-brands.svg" />](https://www.linkedin.com/in/minhajur-rahman)
+[<img align="left" title="Linkedin profile" alt="Linkedin" width="26px" src="./img/linkedin-brands.svg" />](https://www.linkedin.com/in/minhajur-rahman)
 
 [<img align="left" title="Upwork profile" alt="Upwork profile" width="26px" src="./img/upwork.png" />](https://www.upwork.com/freelancers/~01c9dc588b478ed0c3)
