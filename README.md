@@ -21,7 +21,8 @@
 <img align="left" title="GitHub" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" title="Terminal" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
 
+<br/>
+
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)]https://www.linkedin.com/in/minhajur-rahman(#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/minhajur-rahman#gh-dark-mode-only)
+[<img align="left" title="Terminal" alt="Terminal" width="26px" src="./img/linkedin-dark.svg" />](https://www.linkedin.com/in/minhajur-rahman)
