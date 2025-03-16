@@ -2,7 +2,7 @@
 
 ## I'm a Student, Developer, and Entrepreneur!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Laravel
 - 👯 I’m looking to collaborate with other developer
 - 🥅 2022 Goals: Learn more about TypeScript, Graphql and Prisma
 - ⚡ Fun fact: Some times Google bot thinks, I am a robot for searching a lot 🤣
